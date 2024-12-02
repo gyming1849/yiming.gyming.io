@@ -35,11 +35,11 @@ sections:
       title: 'About Me'
       subtitle: ''
       text: |-
-        I am a Master’s student in Computer Science at the University of Southern California with a passion for distributed database systems, database optimization, and geospatial data management. My research bridges theory and application, focusing on designing efficient systems to address real-world challenges in data access and scalability.
+        I am a Master’s student in Computer Science at the University of Southern California. My research interests lie at the intersection of data management and real-world applications. To be more specific, I am fascinated by distributed database systems, database optimization and handling Non-conventional Data like Geospatial data.
 
-        Beyond academics, I have a decade-long dedication to programming and have achieved notable success in competitive programming, including earning a bronze medal at the National Olympiad in Informatics (NOI) and qualifying for the ICPC North American Championship in 2024. These experiences have shaped my problem-solving skills and commitment to innovation.
+        Beyond this, I have a decade-long dedication to programming and have achieved notable success, including earning a bronze medal at the National Olympiad in Informatics (NOI) and ranked 5th in ICPC Southern California Regional Contest, qualifying for the ICPC North American Championship 2025. 
 
-        I am currently applying for PhD programs to further explore this area.
+        I am currently applying for PhD programs to further explore my research interests.
 
     design:
       columns: '1'
