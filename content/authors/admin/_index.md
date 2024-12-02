@@ -48,7 +48,7 @@ education:
   - area: MSCS(general)
     institution: University of Southern California
     date_start: 2023-09-01
-    date_end: 2025-5-31
+    date_end: 2025-05-31
     summary: |
       GPA: 3.87/4.0
 
