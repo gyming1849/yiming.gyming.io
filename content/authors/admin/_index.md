@@ -62,24 +62,17 @@ education:
     date_end: 2023-12-31
     summary: |
       GPA: 3.5/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Research Assistant
     company_name: Professor Shahram Ghandeharizadeh at University of Southern California
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-12-10
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
+  - position: Intern
     company_name: X
     company_url: ''
     company_logo: ''
@@ -88,8 +81,15 @@ work:
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Teaching Assistant
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
